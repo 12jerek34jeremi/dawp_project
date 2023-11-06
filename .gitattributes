@@ -1,0 +1,11 @@
+csv/GlobalLandTemperaturesByCountry.csv filter=lfs diff=lfs merge=lfs -text
+csv/median_income_per_country.csv filter=lfs diff=lfs merge=lfs -text
+csv/most-mountainous-countries-2023.csv filter=lfs diff=lfs merge=lfs -text
+csv/noc_regions.csv filter=lfs diff=lfs merge=lfs -text
+csv/athlete_events.csv filter=lfs diff=lfs merge=lfs -text
+img/afghanistan_winter.jpg filter=lfs diff=lfs merge=lfs -text
+img/bhutan_winter.jpg filter=lfs diff=lfs merge=lfs -text
+img/bobsleigh.jpg filter=lfs diff=lfs merge=lfs -text
+img/chille_ski.jpg filter=lfs diff=lfs merge=lfs -text
+img/lesotho_winter.jpg filter=lfs diff=lfs merge=lfs -text
+img/nepal_winter.jpg filter=lfs diff=lfs merge=lfs -text
